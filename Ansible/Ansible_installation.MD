@@ -5,6 +5,7 @@ Ansible is an open-source automation platform. It is very, very simple to set up
 ### Pre-requisites
 
 1. An AWS EC2 instance (on Control node)
+2. Test that EC2 instance is up and running
 
 ### Installation steps:
 #### on Amazon EC2 instance
